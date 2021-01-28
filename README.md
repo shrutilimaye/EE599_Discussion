@@ -3,4 +3,4 @@
 
 adding statement to push to git
 
-step 2: adding line to the github repo
+step 2: adding line to the github repo.
